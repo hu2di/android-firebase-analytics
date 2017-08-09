@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "38209086435",
+    "firebase_url": "https://fir-analytics-f86ca.firebaseio.com",
+    "project_id": "fir-analytics-f86ca",
+    "storage_bucket": "fir-analytics-f86ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38209086435:android:544d8c5bacbe99e5",
+        "android_client_info": {
+          "package_name": "com.blogspot.huyhungdinh.firebase.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38209086435-2dslp7nn6316m0tfiiume550jat3bhuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwgT1CcAUIBl6H1vKWGJgMqaMRBmepac"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

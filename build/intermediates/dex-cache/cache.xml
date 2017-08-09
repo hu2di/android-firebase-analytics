@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HUNGDH\.android\build-cache\3a7b1fc020896f23acae69145868e8c23f068ee1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="D:\Download\FirebaseAnalytics\app\build\intermediates\pre-dexed\debug\classes_03e10d1a0e9490e2b90fc67b97ed00bd328687ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HUNGDH\.android\build-cache\1b01611dd59b6be7f1c72f894d238f6ed4585756\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="D:\Download\FirebaseAnalytics\app\build\intermediates\pre-dexed\debug\classes_b51526d0f6fd5ac28d0b4762ec406255377f44e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HUNGDH\.android\build-cache\3fd970bfdefabaa3bb9995eb205bf4bac50c2e47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\Download\FirebaseAnalytics\app\build\intermediates\pre-dexed\debug\classes_46453f28a81a831af8fcbf7328ddaa2b61d21561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HUNGDH\.android\build-cache\0d515a222f8fd7114b54bbd9e37a607d8c63ec00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="D:\Download\FirebaseAnalytics\app\build\intermediates\pre-dexed\debug\classes_6b8dd31f9dcfb1134d52945af15689bdd7e233c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HUNGDH\.android\build-cache\b589856e42f56f9ca6a2cb9d744435cee19b605c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="D:\Download\FirebaseAnalytics\app\build\intermediates\pre-dexed\debug\classes_2404a5d6f80e1302eedbe828541ab95167220115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HUNGDH\.android\build-cache\2ef07b6f3044d4084d75549714668570cb254044\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\Download\FirebaseAnalytics\app\build\intermediates\pre-dexed\debug\classes_9f4766d8bbd2e2e301beba186ec6f79c6e7431fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HUNGDH\.android\build-cache\6d1c5dd27f082972755149c8aef965454b117505\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\Download\FirebaseAnalytics\app\build\intermediates\pre-dexed\debug\classes_39e3d2348c7c8f208c74c7bde4aedad3a36c7514.jar" />
+    </item>
+
+</items>
